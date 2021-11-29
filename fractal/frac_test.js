@@ -6,7 +6,7 @@ const x1 = -2.1
 const x2 = 0.6
 const y1 = -1.2
 const y2 = 1.2
-const zoom = 200 //Pour une distance de 1 sur le plan, on a 100 sur l'image
+const zoom = 500 //Pour une distance de 1 sur le plan, on a 100 sur l'image
 const iteration_max = 500
 
 let image_x = (x2 - x1)*zoom
